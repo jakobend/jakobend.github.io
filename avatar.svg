@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" viewBox="-0.1 -0.1 1.2 1.2"><g stroke="black" 
+stroke-width="0.0311652542372881" fill="none"><circle cx="0.5" cy="0.5" r="0.5" fill="white"></circle> <line id="gate-pin" x1="0" y1="0.7679133974894985" x2="0.4" 
+y2="0.7679133974894985"></line> <line id="gate-electrode" x1="0.4" y1="0.7834960246081425" x2="0.4" y2="0.21650397539185756"></line> <line id="source-pin" 
+x1="0.9221639627510074" y1="0.7679133974894983" x2="0.6" y2="0.7679133974894983"></line> <line id="source-wire" x1="0.9221639627510074" y1="0.7679133974894983" 
+x2="0.9221639627510074" y2="1"></line> <line id="channel-electrode" x1="0.6" y1="0.7834960246081423" x2="0.6" y2="0.21650397539185756" 
+stroke-dasharray=""></line> <line id="substrate-pin" x1="1" y1="0.5" x2="0.6" y2="0.5"></line> <line id="substrate-wire" x1="1" y1="0.5" x2="1" y2="0.5"></line> 
+<path id="substrate-arrow" stroke="none" fill="black" d="M 0.8500000000000001 0.5 l -0.1 -0.05 v 0.1 Z"></path> <line id="drain-pin" x1="0.9221639627510074" 
+y1="0.23208660251050145" x2="0.6" y2="0.23208660251050145"></line> <line id="drain-wire" x1="0.9221639627510074" y1="0.23208660251050145" 
+x2="0.9221639627510074" y2="0"></line></g></svg>
